@@ -1,0 +1,6 @@
+{
+    "PORT": 9000,
+    "HOST": "localhost",
+    "URL": "mongodb+srv://data_user_michael:1234567890@cluster0.cjoj5.mongodb.net/todo?retryWrites=true&w=majority",
+    "SECRET_KEY": "tduibyy7)?IJ9M8';'0"
+}
